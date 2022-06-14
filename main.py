@@ -1,6 +1,6 @@
 """
-Name(s):
-Name of Project:
+Name(s): Dakota Lee, Vennela Talapaneni
+Name of Project: Hangman (check Dakota's assignment)
 """
 
 #Write the main part of your program here. Use of the other pages is optional.
